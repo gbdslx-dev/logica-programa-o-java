@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/gbdslx-dev/logica-programacao-portugol/main/banner.png">
 # Exercícios de lógica de programação em JAVA.
 
 ## I'm Gabriela Lima!
